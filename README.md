@@ -3,18 +3,18 @@ Collaboration Flows Processes & Spaces
 
 **Wishlist for online collaboration processes, flows and spaces**
 
-Ok, so I've been collaborating in various environments many are which have an eye on developing collaboration tools. What I imagine, what I dream of being able to do in practice is the following:
+Ok, so I've been working on collaborative projects for the past three years in various environments many of which focus on developing collaboration tools because the need them! What I imagine, what I dream of being able to do in practice is the following:
 
-- Have my own profile with all the data necessary for authentication etc etc where I list my intentions, needs/wishes and what I have to share.
-> Example linked profiles such as we developed at OuishareLabs Camp, here's [mine](http://helenefi.github.io/) or the project we had at the labscamp in 2013 personalsomething.eu... 
+- Have my own personal profile with all the data necessary for authentication etc etc where I list my intentions, needs/wishes and what I have to share, portable.
+> Example are linked profiles such as what we developed at OuishareLabs Camp, here's [mine](http://helenefi.github.io/) or the project we had at the labscamp in 2013 personalsomething.eu... 
 
-- Have with all the project I am engaged in held together with my pals (with all what you have listed James for the OuishareLabs project section)
+- Have all the projects I am engaged in, held in common/commons with my friends, described as collectives etc, poratble.
 > Example [movecommons](http://movecommons.org)
 
-- 'Bring myself' and my projects into/onto various platforms or ad hoc mission oriented collaborative spaces, pin ourselves to existing maps, add ourselves to calendars etc…
-> These project blocs such as [here](http://edgeryders.eu/projects) and [there](http://labs.ouishare.net/projects), I want to plug the same one everywhere and maybe tweak it 'on the spot'
+- 'Bring myself' as a person and my invividual and ourselves as collaborative projects onto/into various platforms or ad hoc mission oriented collaborative spaces, pin ourselves to existing maps, add ourselves to calendars etc…
+> These project blocs such as [here](http://edgeryders.eu/projects) and [there](http://labs.ouishare.net/projects), that we have to reproduce n times, I want to plug the same one everywhere. And maybe want some tweaks 'on the premises'
 
-- Process and reprocess all forms of content external data and generated content. Starting individually and collaboratively with liquid free open text/conversation and then gradually 'conveying' or sending it for 'reprocessing' into other forms (documents, project management, mindmaps, decision tools etc) bringing structure when relevant, as well as the relevant data. Sending this content to other spaces for aggregation, curation with editing/publishing/commenting/annotating capability. 
+- Process and reprocess various forms of content, external data and generated content. Starting individually and collaboratively with liquid free open text/conversation and then gradually 'dispatching' or sending parts of it for 'reprocessing' into other forms (documents, project management, mindmaps, decision tools etc) bringing structure when relevant, as well as the relevant data. Sending this content to other spaces for aggregation, curation with editing/publishing/commenting/annotating capability. 
 > Example described [here](https://github.com/HeleneFi/The_Project/blob/master/Conversation.to.Action-Pull.Platform.md). A combination of The Brain, Trello, Gincko, Loomio, Discourse
 
 - Pull in a space of mine or collectively held all the kinds of people, projects, content and data to follow, aggregate and curate, and then send out, disseminate, activate.
