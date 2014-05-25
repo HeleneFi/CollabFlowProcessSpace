@@ -21,7 +21,7 @@ Ok, so I've been working on collaborative projects for the past three years in v
 > Example, a lighter version of the [pull platform described here](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html), or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention)
 
 - Visualize stigmergetic feedback and how parts of a whole can see the whole evolve, and the relationships between parts in action, enabling gaps to be identified, needs fulfilled, possibilities explored, and impacts visualized.
-> Some inspirations and more details [here](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization)
+> Some inspirations and more details in [Visualizations for Systemic Change](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization) and [Visualization of Stigmergetic Project](https://github.com/HeleneFi/VisuializingStigmergy)
 
 I'm thinking 'plugin', pinging, pining, RSS type of processes and flows...
 I'm thinking browser (does it make sense?) with the right plugins, processing, pulling and diffusing tools and semantic functions...
