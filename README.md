@@ -8,7 +8,7 @@ Ok, so I've been working on collaborative projects for the past three years in v
 - Have my own personal profile with all the data necessary for authentication etc etc where I list my intentions, needs/wishes and what I have to share, portable.
 > Example are linked profiles such as what we developed at OuishareLabs Camp, here's [mine](http://helenefi.github.io/) or the project we had at the labscamp in 2013 personalsomething.eu... 
 
-- Have all the projects I am engaged in, held in common/commons with my friends, described as collectives etc, poratble.
+- Have all the projects I am engaged in, held in common/commons with my friends, described as collectives etc, portable.
 > Example [movecommons](http://movecommons.org)
 
 - 'Bring myself' as a person and my invividual and ourselves as collaborative projects onto/into various platforms or ad hoc mission oriented collaborative spaces, pin ourselves to existing maps, add ourselves to calendars etc…
@@ -19,6 +19,9 @@ Ok, so I've been working on collaborative projects for the past three years in v
 
 - Pull in a space of mine or collectively held all the kinds of people, projects, content and data to follow, aggregate and curate, and then send out, disseminate, activate.
 > Example, a lighter version of the [pull platform described here](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html), or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention)
+
+- Visualize stigmergetic feedback and how parts of a whole can see the whole evolve, and the relationships between parts in action, enabling gaps to be identified, needs fulfilled, possibilities explored, and impacts visualized.
+> Some inspirations and more details [here](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization)
 
 I'm thinking 'plugin', pinging, pining, RSS type of processes and flows...
 I'm thinking browser (does it make sense?) with the right plugins, processing, pulling and diffusing tools and semantic functions...
