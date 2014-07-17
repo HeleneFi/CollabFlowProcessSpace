@@ -3,7 +3,11 @@ Collaboration Flows Processes & Spaces
 
 **Wishlist for online collaboration processes, flows and spaces**
 
-I've been working on collaborative projects for the past three years in various environments many of which focus on developing collaboration tools because the need them! What I imagine, what I dream of being able to do in practice is the following:
+I've been working on collaborative projects for the past three years in various environments many of which focus on developing collaboration tools because the need them! 
+
+Increasingly, people assemble and reassemble in ad hoc ways in networks or alliances of networks, around specific projects that are usually 'object' based, and build a repository of what they have been doing that may come and grow as a commons. They need to go in and out of virtual work spaces for fluid collaborations. While all you marvelous developers out there get the dream platform or next web built, I have created the [Commons Abundance Network](http://commonsabundance.net/) contextualization and collaboration platform on Wordpress.
+
+What I imagine, what I dream of being able to do in practice is the following:
 
 - Have my own personal profile with all the data necessary for authentication etc etc where I list my intentions, needs/wishes and what I have to share, portable.
 > Simple example are linked profiles such as what we created as an exercise at OuishareLabs Camp, here's [mine](http://helenefi.github.io/) or the project we had at the labscamp in 2013 [my-profile.eu](https://my-profile.eu/people/HeleneF/card#me)... 
@@ -17,8 +21,8 @@ I've been working on collaborative projects for the past three years in various 
 - Process and reprocess various forms of content, external data and generated content. Starting individually and collaboratively with liquid free open text/conversation and then gradually 'dispatching' or sending parts of it for 'reprocessing' into other forms (documents, project management, mindmaps, decision tools etc) bringing structure when relevant, as well as the relevant data. Sending this content to other spaces for aggregation, curation with editing/publishing/commenting/annotating capability. 
 > Example and more requirements described [here](https://github.com/HeleneFi/The_Project/blob/master/Conversation.to.Action-Pull.Platform.md). A combination of The Brain, Trello, Gincko, Loomio, Discourse
 
-- Pull in a space of mine or collectively held all the kinds of people, projects, content and data to follow, aggregate and curate, and then send out, disseminate, activate.
-> Example, a lighter and distributed version of the [pull platform described here](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html), or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention)
+- Pull in an ad hoc individual or group space all the kinds of people, projects, content and data to follow, aggregate and curate, and then send out, disseminate, activate.
+> Example, a lighter and distributed version of the [pull platform described here](http://menemania.typepad.com/helene_finidori/2012/02/engaging-for-the-commons.html), or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention). 
 
 - Visualize stigmergetic feedback and how parts of a whole can see their environment as well as the whole evolve, and the relationships between parts in action, enabling gaps to be identified, possibilities explored, opportunities seized, needs fulfilled and impacts visualized.
 > Some inspirations and more details in [Visualizations for Systemic Change](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization) and [Visualization of Stigmergetic Project](https://github.com/HeleneFi/VisuializingStigmergy)
