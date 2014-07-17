@@ -1,5 +1,5 @@
-Collaboration Flows Processes & Spaces
-======================================
+Collaboration Processes, Flows & Spaces
+=======================================
 
 **Wishlist for online collaboration processes, flows and spaces**
 
