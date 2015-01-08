@@ -5,7 +5,7 @@ Collaboration Processes, Flows & Spaces
 
 I've been working on collaborative projects for the past three years in various environments many of which focus on developing collaboration tools because they need them! 
 
-Increasingly, people assemble and reassemble in ad hoc ways in networks or alliances of networks, around specific projects that are usually 'object' based, and build a repository of what they have been doing that may come and grow as a commons. They need to go in and out of virtual work spaces for fluid collaborations. While all you marvelous developers out there get the next killer app, MVP or dream platform built, I have created the [Commons Abundance Network](http://commonsabundance.net/) contextualization and collaboration platform on Wordpress.
+Increasingly, people assemble and reassemble in ad hoc ways in networks or alliances of networks, around specific projects that are usually 'object' based, and build a repository of what they have been doing that may come and grow as a commons. They need to go in and out of virtual work spaces for fluid collaborations. While all you marvelous developers out there get the next killer app, MVP or dream platform built, I have created the [Commons Abundance Network](http://commonsabundance.net/) contextualization and collaboration platform on Wordpress, and I struggle to get it to do what I want!
 
 What I imagine, what I dream of being able to do in practice thanks to the development of the semantic web is the following:
 
